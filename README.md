@@ -1,4 +1,4 @@
-# genie - Your CLI assistant 🧞‍♂️
+# genie - Your CLI assistant
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/harshalranjhani/genie?logo=github&style=for-the-badge)](https://github.com/harshalranjhani)
 [![GitHub last commit](https://img.shields.io/github/last-commit/harshalranjhani/genie?style=for-the-badge&logo=git)](https://github.com/harshalranjhani)
